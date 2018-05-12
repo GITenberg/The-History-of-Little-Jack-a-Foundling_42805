@@ -1,0 +1,34 @@
+_repo: The-History-of-Little-Jack-a-Foundling_42805
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42805-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Day, Thomas
+    alias: Marius
+    birthdate: 1748
+    deathdate: 1789
+    gutenberg_agent_id: '34479'
+    url: http://www.gutenberg.org/2009/agents/34479
+description: The first of these two works relates the adventures of an orphan who
+  rises from poverty to wealth and position through hard work. The second is a series
+  of anecdotes intended for the moral instruction of young children.
+gutenberg_issued: '2013-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tatars -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Foundlings -- Juvenile fiction'
+- !lcsh 'Child soldiers -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+title: The History of Little Jack, a Foundling
+url: http://www.gutenberg.org/ebooks/42805
